@@ -1,93 +1,71 @@
-<mxfile host="www.draw.io" modified="2020-02-26T09:34:48.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 Edg/80.0.361.62" etag="bBAGamHKg_6-ZEDu2rp3" version="12.7.6" type="github">
+<mxfile type="github" version="12.7.9" etag="SqKKIUxJ5ISH7I2Gv8qu" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; gdn/adcp; managedpc; rv:11.0) like Gecko" modified="2020-02-27T17:54:10.708Z" host="www.draw.io">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel grid="1" shadow="0" math="0" background="none" pageHeight="826" pageWidth="1169" pageScale="1.5" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="632" dx="1487">
       <root>
-        <mxCell id="0" style=";html=1;" />
-        <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="6a7d8f32e03d9370-57" value="&lt;b&gt;SDGE Network&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=14;strokeColor=#d79b00;verticalAlign=top;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="150" y="200" width="854.78" height="560" as="geometry" />
+        <mxCell style=";html=1;" id="0" />
+        <mxCell style=";html=1;" id="1" parent="0" />
+        <mxCell style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=14;strokeColor=#d79b00;verticalAlign=top;gradientColor=#ffffff;" value="&lt;b&gt;SDGE Network&lt;/b&gt;" id="6a7d8f32e03d9370-57" parent="1" vertex="1">
+          <mxGeometry width="854.78" height="560" as="geometry" y="200" x="150" />
         </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-14" value="Talend" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;fontSize=14;strokeColor=#36393d;verticalAlign=top;opacity=50;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="450.00000000000006" y="260" width="240" height="462" as="geometry" />
+        <mxCell style="whiteSpace=wrap;html=1;fillColor=#cce5ff;fontSize=14;strokeColor=#36393d;verticalAlign=top;opacity=50;gradientColor=#ffffff;" value="Talend" id="n_ETtxYCgYhA3HL3CZMM-14" parent="1" vertex="1">
+          <mxGeometry width="240" height="462" as="geometry" y="260" x="450.00000000000005" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-60" value="Waltage Netwrok" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=14;strokeColor=#9673a6;verticalAlign=top;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="209.5" width="180" height="560" as="geometry" />
+        <mxCell style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=14;strokeColor=#9673a6;verticalAlign=top;gradientColor=#ffffff;" value="Waltage Netwrok" id="6a7d8f32e03d9370-60" parent="1" vertex="1">
+          <mxGeometry width="180" height="560" as="geometry" y="209.5" x="1210" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-14" value="Talend" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenclient_synchronizer;fillColor=#CCCCCC;gradientColor=#000000;gradientDirection=south;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="522.0799999999998" y="560" width="76" height="91" as="geometry" />
+        <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenclient_synchronizer;fillColor=#CCCCCC;gradientColor=#000000;gradientDirection=south;fontSize=14;" value="Talend" id="6a7d8f32e03d9370-14" parent="1" vertex="1">
+          <mxGeometry width="76" height="91" as="geometry" y="450" x="539.3899999999998" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-16" value="CISCO - MainFrame" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="190" y="419.5" width="84.83" height="109.5" as="geometry" />
+        <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" value="CISCO - MainFrame" id="6a7d8f32e03d9370-16" parent="1" vertex="1">
+          <mxGeometry width="84.83" height="109.5" as="geometry" y="440.75" x="190" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-21" value="SDGE Firewall" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.firewall;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="954.78" y="438" width="83.06" height="103" as="geometry" />
+        <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.firewall;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" value="SDGE Firewall" id="6a7d8f32e03d9370-21" parent="1" vertex="1">
+          <mxGeometry width="83.06" height="103" as="geometry" y="438" x="954.78" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-25" value="Secure SFTP Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.proxy_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="458" width="70.55" height="83" as="geometry" />
+        <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.proxy_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" value="Secure SFTP Server" id="6a7d8f32e03d9370-25" parent="1" vertex="1">
+          <mxGeometry width="70.55" height="83" as="geometry" y="458" x="1280" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-31" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.site;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="150" y="192.04" width="72" height="67.96" as="geometry" />
+        <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.site;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" value="" id="6a7d8f32e03d9370-31" parent="1" vertex="1">
+          <mxGeometry width="72" height="67.96" as="geometry" y="192.04" x="150" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-62" value="Interface 1 - File from CISCO to Waltage" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="400" y="140" width="861" height="40" as="geometry" />
+        <mxCell style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;gradientColor=#ffd966;" value="Interface 1 - File from CISCO to Waltage" id="6a7d8f32e03d9370-62" parent="1" vertex="1">
+          <mxGeometry width="861" height="40" as="geometry" y="140" x="400" />
         </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-3" value="" style="endArrow=classic;html=1;" parent="1" source="6a7d8f32e03d9370-16" target="n_ETtxYCgYhA3HL3CZMM-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.78" y="548" as="sourcePoint" />
-            <mxPoint x="490" y="491" as="targetPoint" />
+        <mxCell style="endArrow=classic;html=1;entryX=-0.047;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;" value="" id="n_ETtxYCgYhA3HL3CZMM-3" parent="1" edge="1" target="6a7d8f32e03d9370-14" source="6a7d8f32e03d9370-16">
+          <mxGeometry width="50" height="50" as="geometry" relative="1">
+            <mxPoint as="sourcePoint" y="548" x="414.78" />
+            <mxPoint as="targetPoint" y="369.4585675235726" x="517.9299999999998" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-10" value="1. Flat File from Cisco" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=-20;" parent="n_ETtxYCgYhA3HL3CZMM-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.2061" y="3" relative="1" as="geometry">
-            <mxPoint y="-17.2" as="offset" />
+        <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=0;" value="1. Flat File from Cisco" id="n_ETtxYCgYhA3HL3CZMM-10" parent="n_ETtxYCgYhA3HL3CZMM-3" vertex="1" connectable="0">
+          <mxGeometry as="geometry" y="3" x="-0.2061" relative="1">
+            <mxPoint as="offset" y="-17.2" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-4" value="" style="endArrow=classic;html=1;exitX=0.845;exitY=0.237;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6a7d8f32e03d9370-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="774.78" y="538" as="sourcePoint" />
-            <mxPoint x="950" y="470" as="targetPoint" />
+        <mxCell style="endArrow=classic;html=1;exitX=0.845;exitY=0.237;exitDx=0;exitDy=0;exitPerimeter=0;" value="" id="n_ETtxYCgYhA3HL3CZMM-4" parent="1" edge="1" source="6a7d8f32e03d9370-14">
+          <mxGeometry width="50" height="50" as="geometry" relative="1">
+            <mxPoint as="sourcePoint" y="538" x="774.78" />
+            <mxPoint as="targetPoint" y="470" x="950" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-11" value="4. Flat File sent to SFTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=-15;" parent="n_ETtxYCgYhA3HL3CZMM-4" vertex="1" connectable="0">
-          <mxGeometry x="-0.2499" y="-1" relative="1" as="geometry">
-            <mxPoint x="66.83" y="-41.129999999999995" as="offset" />
+        <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=0;" value="2. Flat File sent to SFTP" id="n_ETtxYCgYhA3HL3CZMM-11" parent="n_ETtxYCgYhA3HL3CZMM-4" vertex="1" connectable="0">
+          <mxGeometry as="geometry" y="-1" x="-0.2499" relative="1">
+            <mxPoint as="offset" y="-21.979999999999997" x="66.83" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-5" value="" style="endArrow=classic;html=1;exitX=1.003;exitY=0.623;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6a7d8f32e03d9370-21" target="6a7d8f32e03d9370-25" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1034.78" y="528" as="sourcePoint" />
-            <mxPoint x="1084.78" y="478" as="targetPoint" />
+        <mxCell style="endArrow=classic;html=1;exitX=1.003;exitY=0.623;exitDx=0;exitDy=0;exitPerimeter=0;" value="" id="n_ETtxYCgYhA3HL3CZMM-5" parent="1" edge="1" target="6a7d8f32e03d9370-25" source="6a7d8f32e03d9370-21">
+          <mxGeometry width="50" height="50" as="geometry" relative="1">
+            <mxPoint as="sourcePoint" y="528" x="1034.78" />
+            <mxPoint as="targetPoint" y="478" x="1084.78" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-22" value="5. Drops the File to SFTP Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="n_ETtxYCgYhA3HL3CZMM-5" vertex="1" connectable="0">
-          <mxGeometry x="0.3468" y="2" relative="1" as="geometry">
-            <mxPoint x="-43.78" y="-9.08" as="offset" />
+        <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" value="3. Drops the File to SFTP Server" id="n_ETtxYCgYhA3HL3CZMM-22" parent="n_ETtxYCgYhA3HL3CZMM-5" vertex="1" connectable="0">
+          <mxGeometry as="geometry" y="2" x="0.3468" relative="1">
+            <mxPoint as="offset" y="-9.08" x="-43.78" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n_ETtxYCgYhA3HL3CZMM-12" target="6a7d8f32e03d9370-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-18" value="2.Talend Picks the File" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="n_ETtxYCgYhA3HL3CZMM-17" vertex="1" connectable="0">
-          <mxGeometry x="-0.296" y="-24" relative="1" as="geometry">
-            <mxPoint x="24" y="24" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.file_server;" parent="1" vertex="1">
-          <mxGeometry x="517.93" y="300" width="80.15" height="109.5" as="geometry" />
-        </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-20" value="" style="endArrow=classic;html=1;" parent="1" target="n_ETtxYCgYhA3HL3CZMM-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="550" as="sourcePoint" />
-            <mxPoint x="920" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n_ETtxYCgYhA3HL3CZMM-21" value="3. Talend Archives the source file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=0;" parent="n_ETtxYCgYhA3HL3CZMM-20" vertex="1" connectable="0">
-          <mxGeometry x="0.1146" y="1" relative="1" as="geometry">
-            <mxPoint x="52.730000000000004" y="-56.77" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DqLlD4j0ay94RuZdbEi0-2" value="TalendEncryptionProject_Interface1" style="text;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="130" width="210" height="30" as="geometry" />
+        <mxCell style="text;html=1;" value="TalendEncryptionProject_Interface1" id="DqLlD4j0ay94RuZdbEi0-2" parent="1" vertex="1">
+          <mxGeometry width="210" height="30" as="geometry" y="130" x="50" />
         </mxCell>
       </root>
     </mxGraphModel>
